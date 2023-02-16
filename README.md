@@ -6,4 +6,4 @@ This is a page where I'll share some information about myself and the work that 
 February 2023: In this analysis, I worked on developing hypotheses and finding proper code to find information of the questions I was asking. If you are interested, you can find my work 
 
 ## Penguins
-January 2023: In this document, you will find my work from when I was first discovering how to work with Rstudio. You can find that [here](https://github.com/carolinecarrozzini/BioStatisticsAnalysis/blob/main/PalmerPenguinsAnalysis.html))
+January 2023: In this document, you will find my work from when I was first discovering how to work with Rstudio. You can find that [here](https://github.com/carolinecarrozzini/BioStatisticsAnalysis/blob/main/PalmerPenguinsAnalysis.html)
