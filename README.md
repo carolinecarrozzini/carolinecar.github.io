@@ -1,3 +1,5 @@
+## NYC Squirrels Analysis
+
 # Methodology
 
 In this section, I will be using "new" data that was not seen in the exploratory analyses prior to this. I will be using simulation methods in an attempt to answer the hypotheses that were previously stated. Using this type of method will allow for more accurate results since there are different factors that play into the intervals and not everything has an equal opportunity of happening. 
