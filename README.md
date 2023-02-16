@@ -1,4 +1,8 @@
-# NYC Squirrel Analysis 
+# Caroline Carrozzini's Webpage
+
+This is a page where I'll share some information about myself and the work that I amd doing in biostatistics/bioinformatics. So far, I've done some work to analyze data on Penguins and, most recently, NYC squirrels.
+
+## NYC Squirrel Analysis 
 ### February 2023
 
 ## Methodology
